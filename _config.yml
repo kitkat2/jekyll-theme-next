@@ -151,8 +151,8 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Muse
-#scheme: Mist
+# scheme: Muse
+# scheme: Mist
 scheme: Pisces
 
 
@@ -233,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: https://desk-fd.zol-img.com.cn/t_s960x600c5/g2/M00/00/0E/ChMlWl7eLVGIFUccAD-DL6zLrDYAAP4sQAAAAAAP4NH118.jpg
+# avatar: https://desk-fd.zol-img.com.cn/t_s960x600c5/g2/M00/00/0E/ChMlWl7eLVGIFUccAD-DL6zLrDYAAP4sQAAAAAAP4NH118.jpg
 
 
 # Table Of Contents in the Sidebar
