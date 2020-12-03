@@ -51,11 +51,11 @@ ajv.addFormat('test', (data) => {
 
 addKeyword
 
-	1. validate ，返回boolean值
- 	2. compilation，compile。返回 一个函数
-      	1. metaSchema
- 	3. macro，返回一个Json Schema。 macro 里的schema会被加入到parentSchema中，对数据进行校验
- 	4. inline compilation： inline。 性能最优，代码可阅读性最差。预编译
+1. validate ，返回boolean值
+2. compilation，compile。返回 一个函数
+  1. metaSchema
+3. macro，返回一个Json Schema。 macro 里的schema会被加入到parentSchema中，对数据进行校验
+4. inline compilation： inline。 性能最优，代码可阅读性最差。预编译
 
 ```javascript
 ajv.addKeyword('testk', {
