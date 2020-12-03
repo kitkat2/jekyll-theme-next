@@ -1,3 +1,7 @@
+---
+title: typescript basic
+tags:[typescript, 前端]
+---
 # typescript
 
 
