@@ -1,6 +1,9 @@
 ---
-title: typescript basic
-tags:[typescript, 前端]
+layout: post
+title: "typescript basic"
+date: 2020-12-03
+categories: note
+tags: [typescript, 前端]
 ---
 # typescript
 
@@ -278,7 +281,6 @@ const result =  echo(str)  // result: string
 2. 传入元组
 
 ![image-20200930112954887](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200930112954887.png)
-
 3. 泛型约束
 
 ```typescript
